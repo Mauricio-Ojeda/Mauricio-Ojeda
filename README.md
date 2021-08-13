@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mauricio-Ojeda
 - 👀 I’m interested in development web
 - 🌱 I’m currently learning React
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin.com/in/mauricio-ojeda-9a47704a
 
 <!---
 Mauricio-Ojeda/Mauricio-Ojeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
