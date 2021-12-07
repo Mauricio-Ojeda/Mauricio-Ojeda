@@ -9,7 +9,7 @@
 </div>
 <hr/>
 
-[![Mauricio Ojeda GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Ojeda)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark)
+[![Mauricio Ojeda GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Ojeda&count_private=true&show_icons=true&theme=dark)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Ojeda&theme=radical)
 
