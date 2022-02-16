@@ -12,6 +12,14 @@
   <a href="https://mauricio-ojeda-portfolio.netlify.app" target="_blank" align="center"><img src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png"  width="48"/></a>
 </div>
 <hr/>
+Technolgies i'm using now 💻
+<ul> 
+  <li>React</li>
+  <li>Redux</li>
+  <li>Sass</li>
+  <li>Firebase</li>    
+</ul>  
+<hr/>
 
 ![Mauricio Ojeda GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Ojeda&count_private=true&show_icons=true&theme=radical)
 
