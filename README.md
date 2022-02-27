@@ -4,7 +4,7 @@
 </h2>
 <p align="center">Front-End Developer</p>
 <p align="center">I´m learning every day more about React</p>
-<p align="center">Email: ojeda.mauricio@hotmail.com.ar</p>
+<p align="center">Email: mauricioleandro.ojeda@gmail.com</p>
 
 <hr/>
 <div align="center" > 
