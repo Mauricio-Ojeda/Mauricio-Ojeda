@@ -9,16 +9,28 @@
 <hr/>
 <div align="center" > 
   <a href="https://www.linkedin.com/in/mauricio-ojeda-9a47704a/" target="_blank" align="center" > <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
-  <a href="https://mauricio-ojeda-portfolio.netlify.app" target="_blank" align="center"><img src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png"  width="48"/></a>
+  <a href="https://mauricio-ojeda-portfolio.netlify.app" target="_blank" align="center"><img src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png"    width="48"/></a>
+  <a href="https://trailblazer.me/id" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/70604758/177005602-56c9638e-76a1-4a83-8f27-48366e080bae.png"  width="75"/></a>
 </div>
 <hr/>
 Technolgies i'm using now 💻
+<ul> 
+  <li>Salesforce</li>
+  <li>Flows</li>
+  <li>Apex</li>
+  <li>JavaScript</li>
+  <li>LWC</li>
+  <li>AURA</li> 
+</ul>
+
+Technolgies that I used: 💻
 <ul> 
   <li>React</li>
   <li>Redux</li>
   <li>Sass</li>
   <li>Firebase</li>    
 </ul>  
+<hr/>
 <hr/>
 
 ![Mauricio Ojeda GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Ojeda&count_private=true&show_icons=true&theme=radical)
